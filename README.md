@@ -89,7 +89,7 @@ We started FlowPilot after watching three early-stage teams abandon Jira within 
 ### Install & run
 
 ```bash
-git clone https://github.com/flowpilot/flowpilot.git
+git clone https://github.com/tushaar-05/flowpilot.git
 cd flowpilot
 npm install
 npm run dev
